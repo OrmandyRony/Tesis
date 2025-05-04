@@ -6,6 +6,9 @@ yarn-error.log*
 package-lock.json
 .pnpm-debug.log*
 
+# key files
+*.pem
+
 # Logs
 logs/
 *.log
